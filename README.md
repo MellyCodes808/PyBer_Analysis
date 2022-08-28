@@ -6,12 +6,12 @@ Analysis overview
 
 Results
 
-![](Summary DF .png)
+![](Summary%20DF.png)
 
   After pulling together key metrics, we were able to identify key differences in the data. The Rural areas have the least rides but the highest average fare per city and fare per driver. This phenomenon is likely caused by the number of drivers. Rural areas have 13x fewer rides than the Urban type, however, Urban areas have 30x more drivers. We conclude that this has an impact on the average fare per driver.
 The Suburban Type has 5x more rides than rural areas, and proportionally a little over 6x more drivers than the rural type. They also profit 4x the amount of rural cities while charging $16.00 less. Urban cities have the highest total rides, drivers and profitability. All while being able to charge the cheapest fare and fare per driver. Urban rides make up the majority of our dataset, so we can conclude that fare price and ridership is highly correlated.
 
-![](Fare by city type line graph .png)
+![](Fare%20by%20city%20type%20line%20graph%20.png)
 
   Here, we see that Urban areas are the most profitable for the company, with a significantly higher total fares. We can also see that the profits peak in February and March for Urban and Suburban types, and in April for Rural areas. Also of note, it looks like Profits are at their lowest in January for all areas. 
 
